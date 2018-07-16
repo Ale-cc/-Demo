@@ -1,5 +1,5 @@
 <!--tmall/tmall.wxml-->
-<!-- <text class='intro'>tmall/tmall.wxml</text> -->
+ <text class='intro'>tmall/tmall.wxml</text> 
 
 <view id="outter" data-tips="handleTap2" data-ps="handleTap2" bindtap="handleTap1">
   outer view
