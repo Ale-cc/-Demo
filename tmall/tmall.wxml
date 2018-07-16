@@ -1,0 +1,12 @@
+<!--tmall/tmall.wxml-->
+<!-- <text class='intro'>tmall/tmall.wxml</text> -->
+
+<view id="outter" data-tips="handleTap2" data-ps="handleTap2" bindtap="handleTap1">
+  outer view
+  <view id="middle" data-tips="handleTap2" data-tis="handleTap2" catchtap="handleTap2">
+    middle view
+    <view id="inner" data-tips="handleTap3" data-name="handleTap2" bindtap="handleTap3">
+      inner view
+    </view>
+  </view>
+</view>

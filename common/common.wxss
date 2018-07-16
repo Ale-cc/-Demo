@@ -1,0 +1,6 @@
+view{
+  color: red;
+}
+.intro{
+  color: #FF6D47;
+}

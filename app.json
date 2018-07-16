@@ -1,0 +1,22 @@
+{
+  "pages":[
+    "index/index",
+    "tmall/tmall"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "index/index",
+      "text": "首页"
+    },
+    {
+      "pagePath": "tmall/tmall",
+      "text": "分类"
+    }]
+  }
+}
