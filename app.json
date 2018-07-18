@@ -12,10 +12,14 @@
   "tabBar": {
     "list": [{
       "pagePath": "index/index",
+      "iconPath": "images/favicon@2x.png",
+      "selectedIconPath": "images/favicon@2x.png",
       "text": "首页"
     },
     {
       "pagePath": "tmall/tmall",
+      "iconPath": "images/user@2x.png",
+      "selectedIconPath": "images/user@2x.png",
       "text": "分类"
     }]
   }
