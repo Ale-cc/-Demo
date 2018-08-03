@@ -1,6 +1,10 @@
-view{
-  color: red;
-}
 .intro{
   color: #FF6D47;
+}
+image{
+  width: 100%;
+  height: inherit;
+}
+view, text,block,swiper{
+  -webkit-tap-highlight-color: transparent;
 }
